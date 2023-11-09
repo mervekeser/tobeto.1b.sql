@@ -83,7 +83,7 @@ left join categories on categories.category_id = products.product_id order by un
 
 --25. En çok satılan ürününün adı, kategorisinin adı ve tedarikçisinin adı
 select product_name, category_name, company_name, units_on_order from products 
-left join categories on categories.category_id = products.product_id 
+left join categories on categories.category_id = products.category_id 
 left join suppliers on suppliers.supplier_id = products.supplier_id order by units_on_order desc limit 1
 
 
