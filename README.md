@@ -1,1 +1,1 @@
-- 08.11.2023 Tobeto Java 1B SQL Query Workshop
+- 08.11.2023 Tobeto Java 1B SQL Query Workshop Pair-7
