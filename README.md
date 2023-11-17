@@ -1,1 +1,4 @@
-- 08.11.2023 Tobeto Java 1B SQL Query Workshop Pair-7
+- 08.11.2023 Tobeto Java 1B SQL Query-1 Workshop Pair-7
+- 10.11.2023 Tobeto Java 1B SQL Query-2 Workshop Pair-7
+- 13.11.2023 Tobeto Java 1B SQL Query-3 Workshop Pair-7
+- 15.11.2023 Tobeto Java 1B SQL Rent a car database-diagram Workshop
